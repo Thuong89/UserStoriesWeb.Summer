@@ -6,3 +6,5 @@ This is a web project using HTML,CSS to build a User Story Web page. Techniques 
 - Flex box
 - Embed URL link & open in new tab
 - General adjustment: color, size, padding, etc.
+
+Content is written by me, but image is taken from the internet.
